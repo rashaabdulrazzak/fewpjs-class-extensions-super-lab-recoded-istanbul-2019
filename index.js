@@ -13,7 +13,7 @@ class Deciduous extends Tree{
     this.name = name 
   }
   static definition(){
-    super(definition)
+    return (super.definition() + )
     
   }
 }
